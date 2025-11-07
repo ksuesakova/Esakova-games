@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Esakova-games
+Version: 0.1.0
+Summary: Collection of simple math games
+Author-email: Ksenia <isip_k.o.esakova@mpt.ru>
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: prompt
+
+# Esakova-games

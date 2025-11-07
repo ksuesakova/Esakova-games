@@ -1,0 +1,4 @@
+[console_scripts]
+VD-calc = VD_games.scripts.VD_calc:main
+VD-even = VD_games.scripts.VD_even:main
+VD-games = VD_games.scripts.VD_main:main

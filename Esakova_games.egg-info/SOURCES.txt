@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+Esakova_games.egg-info/PKG-INFO
+Esakova_games.egg-info/SOURCES.txt
+Esakova_games.egg-info/dependency_links.txt
+Esakova_games.egg-info/entry_points.txt
+Esakova_games.egg-info/requires.txt
+Esakova_games.egg-info/top_level.txt
+VD_games/__init__.py
+VD_games/cli.py
+VD_games/engine.py
+VD_games/scripts/VD_calc.py
+VD_games/scripts/VD_even.py
+VD_games/scripts/VD_games.py
+VD_games/scripts/VD_main.py
+VD_games/scripts/__init__.py
