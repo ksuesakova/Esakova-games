@@ -25,6 +25,7 @@ VD-games = "VD_games.scripts.VD_main:main"
 VD-even = "VD_games.scripts.VD_even:play_even_game"
 VD-calc = "VD_games.scripts.VD_calc:main"
 VD-gcd = "VD_games.scripts.VD_gcd:main"
+VD-progression = "VD_games.scripts.VD_progression:play_progression_game"
 
 [tool.ruff]
 line-length = 88
